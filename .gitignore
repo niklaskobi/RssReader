@@ -1,0 +1,7 @@
+".meatadata\" 
+bin/
+target/
+*~
+.meatadata\ 
+common.gitignore
+"common.gitignore"
