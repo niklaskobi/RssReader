@@ -1,0 +1,12 @@
+.mk-box {
+	margin-bottom:10px;
+}
+
+.mk-box img {
+    width: 100px;
+    height: 100px;
+}
+
+.mk-box h4{
+	padding-top:10px;
+}
