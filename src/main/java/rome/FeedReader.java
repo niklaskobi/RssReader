@@ -1,7 +1,6 @@
 package rome;
 
 import java.net.URL;
-import java.util.ArrayList;
 import java.util.List;
 
 import com.rometools.rome.feed.synd.SyndEntry;
@@ -14,7 +13,7 @@ import com.rometools.rome.io.XmlReader;
 public class FeedReader
 {
 
-	public static void main(String[] args)
+	public static void Test()
 	{
 		boolean ok = false;
 		try
